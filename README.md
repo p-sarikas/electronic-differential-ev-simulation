@@ -1,4 +1,5 @@
 ## Simulation-of-an-electronic-differential-of-an-electric-vehicle
+Modeling and simulation of an electronic differential for a lightweight EV using Ackermann steering. Compares DC motor and PMSM-based in-wheel architectures with advanced control (FOC, SVPWM) to evaluate vehicle stability and traction.
 
 ### Περιγραφή προσομοιώσεων (Simulation description)
 Περικειμένου να προσδιορισθεί το σύστημα του ηλεκτρονικού διαφορικού (electronic differential
